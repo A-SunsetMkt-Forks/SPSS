@@ -235,7 +235,7 @@ https://user-images.githubusercontent.com/82578024/167623023-a5283bbc-c36c-46a1-
 
 [Xem Video Phân tích Independent Sample T-Test trên SPSS](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EXe1CGmaWC1GjLlWwStznBABb9q-2B7Hz9KNpDoc9nPWHA?e=bKZdmR)
 
-## TỪNG BƯỚC CHINH PHỤC SPSS VỚI FILE DATA MẪU: [cnss.sav](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaTnr1_Nv-tNvAvWqhWPYNwBvhlmiU24e5tgnrgyhfSs8A?e=be7Ube) ##
+## TỪNG BƯỚC CHINH PHỤC SPSS VỚI FILE DATA MẪU: cnss.sav download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/SPSS/IMP/cnss.sav) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaTnr1_Nv-tNvAvWqhWPYNwBvhlmiU24e5tgnrgyhfSs8A?e=be7Ube) ##
 
 Các bạn download file [cnss.sav](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaTnr1_Nv-tNvAvWqhWPYNwBvhlmiU24e5tgnrgyhfSs8A?e=be7Ube) hoặc https://raw.githubusercontent.com/BsNgChiThanh/SPSS/IMP/cnss.sav về để tiến hành chinh phục.
 
