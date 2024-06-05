@@ -979,8 +979,9 @@ Phiên giải:
 
 Cân nặng sơ sinh có mối liên quan một cách có ý nghĩa thống kê với tăng cân thai phụ (F702=181.752; p < 0.001). Đối với mỗi một kg sản phụ tăng lên trong lúc mang thai, cân nặng sơ sinh sẽ 111.348 gram (khoảng tin cậy 95% là 95.132 – 127.564). Tăng cân của sản phụ trong quá trình mang thai lý giải được 20, 6% sự biến thiên của cân nặng sơ sinh.
 
+- [SPSS của ThS BS Trần Thế Trung.pdf](https://github.com/user-attachments/files/15572910/SPSS.ThS.BS.Tr.n.Th.Trung.pdf)
+- Download về tham khảo.
+
 ### Chúc các bạn thành công!!! ###
 
 **[Chia sẻ Google map](https://maps.app.goo.gl/wmAPRFYyF3nNeHd87)**
-
-## [BẤM VÀO ĐÂY, NẾU MUỐN ỦNG HỘ SỰ HOẠT ĐỘNG CỦA KÊNH](https://me.momo.vn/OeIRuaTbfqsmFyiataCM/MvbmqGVrVjLpbYA) ##
