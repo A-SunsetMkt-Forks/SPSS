@@ -42,7 +42,7 @@ ca5f076ad01a908aca85
 |**[SPSS 27](https://drive.google.com/drive/folders/1Lyk1Cwac-L1josFvFiy59ubZd7jyvIqe?usp=sharing)**|x|x|
 |**[SPSS 26](https://drive.google.com/drive/folders/1xdXYJmBIAHkmF9GD13ObUNeDNcScSvdZ?usp=drive_link)**|x|x|
 |**[SPSS 25](https://drive.google.com/drive/folders/1O2dTxY1hTWWsLtSbhW9FEjoy58UwbbDy?usp=sharing)**|x|x|
-|**[SPSS 24]()**|x||
+|**[SPSS 24](https://drive.google.com/drive/folders/1qkK7DwSb9BQUqR9EmRLHocSLF8jzVFn2?usp=sharing)**|x||
 |**[SPSS 23]()**|x||
 |**[SPSS 22]()**|x||
 |**[SPSS 21]()**|x||
