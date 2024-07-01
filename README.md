@@ -43,12 +43,10 @@ ca5f076ad01a908aca85
 |**[SPSS 26](https://drive.google.com/drive/folders/1xdXYJmBIAHkmF9GD13ObUNeDNcScSvdZ?usp=drive_link)**|x|x|
 |**[SPSS 25](https://drive.google.com/drive/folders/1O2dTxY1hTWWsLtSbhW9FEjoy58UwbbDy?usp=sharing)**|x|x|
 |**[SPSS 24](https://drive.google.com/drive/folders/1qkK7DwSb9BQUqR9EmRLHocSLF8jzVFn2?usp=sharing)**|x||
-|**[SPSS 23]()**|x||
-|**[SPSS 22]()**|x||
-|**[SPSS 21]()**|x||
-|**[SPSS 20]()**|x||
-|**[SPSS 19]()**|x||
-|**[SPSS 18]()**|x||
+|**[SPSS 23](https://drive.google.com/drive/folders/1F9IHEdUgPHAhaxiqQOJ9sWBVnNkr0xby?usp=sharing)**|x||
+|**[SPSS 22](https://drive.google.com/drive/folders/1h6lldB7FLdBoTzBPv2ZuefFHyg1fJdLC?usp=sharing)**|x||
+|**[SPSS 21](https://drive.google.com/drive/folders/1SILxfsqXFMzR6qpTJKXNqzG4yAQLtwbf?usp=sharing)**|x||
+|**[SPSS 20](https://drive.google.com/drive/folders/1-oXjrfl-5kd2-6gDm4_v_L6BsL42SdCB?usp=sharing)**|x||
 
 **[Cách tạo file lservrc Crack SPSS version từ 20 đến 27](https://github.com/BsNgChiThanh/lservrc)**
 
