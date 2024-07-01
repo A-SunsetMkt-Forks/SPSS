@@ -27,8 +27,7 @@ ca5f076ad01a908aca85
 
 |Version Click vào để download|Windows|Mac|
 | -- | -- | -- |
-|**[SPSS 29](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EgaTq9YQU8VDvye4mPKpsO0BfMm81qG6Sp0frpnLTx_6kw?e=OQRGj6)**|x|x|
-|**[SPSS 28](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EtIIqHAwOJhPh0YS9CFQdaABTM69xEI3b9Q4LXfDnt2vBg?e=h3SAlb)**|x|x|
+|**[SPSS 28](https://drive.google.com/drive/folders/1_Cjnu52bBO6XZUlEuG2THDHdObz4DooL?usp=sharing)**|x|x|
 
 ## Giải pháp dùng thử ##
 
@@ -40,16 +39,16 @@ ca5f076ad01a908aca85
 
 |Version Click vào để download|Windows|Mac|
 | -- | -- | -- |
-|**[SPSS 27](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EtYbqtgC0yVChnOVx4lOJEwBQvxke0nTknq6CaXBQRFKMQ?e=becQFG)**|x|x|
-|**[SPSS 26](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EqjZGHyXOnlJvnN6QCgA0KkB73FDflwW4O43pQrKR1KKcA?e=qWsWnk)**|x|x|
-|**[SPSS 25](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EhvRaxCXcExJuvsEbndv8DIBdBDEthreT7RSATXMREz9qg?e=aEIkaZ)**|x|x|
-|**[SPSS 24](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Ep6umM9FLiVFl4eY_mo5lGMBEMyqN3bMsyahaS3OLTW8Tw?e=1qHkck)**|x||
-|**[SPSS 23](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EiFmqPfNqVZKlapXG6kD3XgB780P761_agJ4HcnbbqNdiQ?e=j8eksa)**|x||
-|**[SPSS 22](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EmR5sST4LpVCqoID9-8xL3oB2aFjuASt34HGKuzbuq4ZKw?e=CwpKXK)**|x||
-|**[SPSS 21](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EjDXQHndTrxFikMT-VkE3DsBWIjjJgGzVw0FhOM4XBNC2Q?e=WKqdML)**|x||
-|**[SPSS 20](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EioVzFRS5RZOiNcj1OCd68IBYr92BaYl8Deom1q7uU86kQ?e=3wbClm)**|x||
-|**[SPSS 19](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EgQSTP9JoblGsVuZB8Q9H6MBiwYD3xZSRZ0wmIk0hX7Jxw?e=4yC9x4)**|x||
-|**[SPSS 18](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EVI5DaChUj9Kk2ut2DbHbHUBmYjs_zQwPX4ouZJmu6esXw?e=m8B1yt)**|x||
+|**[SPSS 27]()**|x|x|
+|**[SPSS 26]()**|x|x|
+|**[SPSS 25]()**|x|x|
+|**[SPSS 24]()**|x||
+|**[SPSS 23]()**|x||
+|**[SPSS 22]()**|x||
+|**[SPSS 21]()**|x||
+|**[SPSS 20]()**|x||
+|**[SPSS 19]()**|x||
+|**[SPSS 18]()**|x||
 
 **[Cách tạo file lservrc Crack SPSS version từ 20 đến 27](https://github.com/BsNgChiThanh/lservrc)**
 
@@ -73,13 +72,12 @@ ca5f076ad01a908aca85
 
 **Có 2 cách kích hoạt, làm cách nào cũng được:**
 
-1. cài xong nạp [key tại đây](https://bsthanh-my.sharepoint.com/:t:/g/personal/0914678254_bsthanh_onmicrosoft_com/ETX_JEhz6w9GkqdhsdyFMSwBhoGeUGWF6Sy8nprfeWO8tQ?e=mhJxEo) (SPSS 27 đang cập nhật key, vui lòng chọn cách 2)
-2. Cài xong copy file [lservrc](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EVxztiwCSsFMj3bPLYq-9ZsB8tWQM54VWvSr7AoRsKroMg?e=dg1kQD) vào đường dẫn C:\Program Files\IBM\SPSS\Statistics\27
+1. cài xong nạp [key tại đây]() (SPSS 27 đang cập nhật key, vui lòng chọn cách 2)
+2. Cài xong copy file [lservrc]() vào đường dẫn C:\Program Files\IBM\SPSS\Statistics\27
 
 Restart lại máy tính là ok
 
 ### Các version khác cài tương tự hoặc có hướng dẫn bên trong, các bản cũ ví dụ SPSS18 thì copy toàn bộ file trong EQX của chương trình crack dán đè vào thư mục C:\\Program Files (x86)\SpssInc\SPSWStatistics18 ##
-[Thay đổi ngôn ngữ trong SPSS](https://bsthanh-my.sharepoint.com/:w:/g/personal/0914678254_bsthanh_onmicrosoft_com/EeDfMJrgaqNKjY3nf-hGWwUBxlmG-46gNHtIeNBAxO5_8A?e=B8M68y)
 
 ![Picture1](https://user-images.githubusercontent.com/82578024/166340240-8a9cfd14-b7c2-4096-991a-fd4f80016563.jpg)
 
@@ -94,8 +92,6 @@ Restart lại máy tính là ok
 ![Picture3](https://user-images.githubusercontent.com/82578024/166340546-58b4c029-8e5e-4b72-86b4-248efd3c68d3.jpg)
 
 ![Picture4](https://user-images.githubusercontent.com/82578024/166340601-924ab986-7dbd-4434-ba30-af3b09f3bd70.jpg)
-
-[Hướng dẫn sử dụng phần mềm SPSS bấm vào đây](https://bsthanh-my.sharepoint.com/:b:/g/personal/0914678254_bsthanh_onmicrosoft_com/EZ9j5gox7xhKh5wrTcOSIFoB_YEwkyuQSxmVsnV63uPZYA?e=fAdJYX)
 
 ### CÀI ĐẶT SPSS 27 CỤ THỂ ###
 
@@ -161,83 +157,9 @@ https://user-images.githubusercontent.com/82578024/167623023-a5283bbc-c36c-46a1-
 
 ## HƯỚNG DẪN SỬ DỤNG SPSS TRONG NGHIÊN CỨU KHOA HỌC ([Lấy từ trang Phạm Lộc Blog](https://www.phamlocblog.com/)) ##
 
-### Phần 1: Bảy thuật ngữ thống kê trong nghiên cứu: ###
-
-1. Biến độc lập
-2. Biến phụ thuộc
-3. Nhân tố
-4. Biến quan sát
-5. Tổng thể
-6. Mẫu
-7. Số quan sát
-
-[Xem video](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EVwYaRSBaFlDtcVxAEOvdeABZ30n_qd9rM9OPFQJhypg_g?e=0tI1c1)
-
-### Phần 2: Tám điểm lưu ý quan trọng để có bảng khảo sát chất lượng ###
-
-1. Kế thừa bảng khảo sát của một nghiên cứu trước đó.
-2. Việc kế thừa từ nhiều tác giả cần có sự gạn lọc để loại bỏ đi các quan sát thừa.
-3. Sau khi đã được các biến quan sát, câu hỏi tham khảo từ các nghiên cứu đi trước cần phải điều chỉnh câu chữ cho dễ hiểu.
-4. Nên đồng bộ mức điểm của thang đo cùng chiều với sự đồng ý, sự hài lòng.
-5. Nên mã hóa ngay các con số đáp án trong bảng câu hỏi khảo sát.
-6. Phần thông tin người được khảo sát cần đưa ra câu hỏi phục vụ cho nghiên cứu, không đưa quá nhiều câu và các câu nhạy cảm.
-7. Biến định tính cần cập nhật đáp án theo thời gian.
-8. Chia nhóm giá trị biến đính tính phù hợp với cơ cấu, tránh tình trạng quá nhiều, nhóm không có người trả lời
-
-[Xem Video](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/ERG4OVD_NA5LlpOJmZ1nrAcB71feNbHjY7LSoO1R1PwFwA?e=RVjQyp)
-
-### Phần 3: Thống kê mô tả Frequency và Descriptives ###
-
-1. Phân tích thống kê mô tả trên Frequency.
-2. Phân tích thống kê mô tả trên Descriptives
-3. Vẽ biểu đồ trên SPSS và Exel.
-
-[Xem video](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EU5oR4joNH9Mouh_IlnXRfkByDqyrPZf6wU4V9_0AuKvZg?e=j7Z3kZ)
-
-### Phần 4: Kiểm định độ tin cậy thang đo Cronbach's Alpha ###
-
-[Video 1](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EYhOqdiddpRLofB0YkJmIm0Bf5imhkRtvHqRzIIxWM7CbQ?e=TVavWm)
-
-[Video 2](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EY311CM0G0ZOgDzRXyiuAXMBusbaR403RVKyK7RUM4SvQg?e=htVpBQ)
-
-[Video 3](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EYgv51BtwgdDtwxyeBFyTCsBOQOjfh4XhdJqNEjLuH4Jiw?e=P2tTIZ)
-
-[Video 4](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EUtv1yBCP-BFufB_6ov_1d8BUdouRq5P-Hwhv4Ji1SKM1A?e=z88Tr7)
-
-### Phần 5: Phân tích nhân tố khám phá EFA ###
-
-1. Phân tích yếu tố khám phá EFA là gì?
-2. Hai giá trị phân biệt và hội tụ trong EFA
-3. Thực hiện phân tích yếu tố khám phá EFA trên SPSS
-
-[Xem Video](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EZbeTauoAt1Omxn0wGLPR4UBj40lXwpCr8juobWzafoIhQ?e=xQHDKg)
-
-### Phần 6: Phân tích tương quan Pearson ###
-
-[Xem video](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/ERGsApx6zL9PpXTdsCC5X-AB-AhItEwCw8Lr7Gnt4KF3vQ?e=BJMQEl)
-
-### Phần7: Phân tích hồi qui đa biến ###
-
-1. Nhiệm vụ của hồi qui đa biến
-2. Cách thực hiện hồi qui đa biến trên SPSS
-3. Các chỉ số cần đọc trong kết quả hồi qui.
-
-[Xem Video](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eci8KqHhmedJsoIJteTyztgBKaPKE_em9I9RDTgF4iwEnA?e=iG0rbN)
-
-### Phần 8: Kiểm định ANOVA, T-Test ##
-
-1. Trường hợp nào sử dụng ANOVA, trường hợp nào sử dụng T-Test
-2. Cách thực hiện và một số lưu ý
-
-[Xem Video Phân tích khác biệt trung bình One-way ANOVA trong SPSS](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/ETw-nm5hIxFCgsnNuZ9vBmIB-lwMOmgSdOqvc8UIIMRTMQ?e=sWhxjq)
-
-[Xem Video Phân tích One Sample T-Test trên SPSS](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EdeFKwu3mGxBhO4DBed3CHsBZui9aE52kW6jF0Y0_QRVnQ?e=DAdG6J)
-
-[Xem Video Phân tích Independent Sample T-Test trên SPSS](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EXe1CGmaWC1GjLlWwStznBABb9q-2B7Hz9KNpDoc9nPWHA?e=bKZdmR)
-
 ## TỪNG BƯỚC CHINH PHỤC SPSS VỚI FILE DATA MẪU: cnss.sav download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/SPSS/IMP/cnss.sav) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaTnr1_Nv-tNvAvWqhWPYNwBvhlmiU24e5tgnrgyhfSs8A?e=be7Ube) ##
 
-Các bạn download file [cnss.sav](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaTnr1_Nv-tNvAvWqhWPYNwBvhlmiU24e5tgnrgyhfSs8A?e=be7Ube) hoặc https://raw.githubusercontent.com/BsNgChiThanh/SPSS/IMP/cnss.sav về để tiến hành chinh phục.
+Các bạn download file [cnss.sav](https://raw.githubusercontent.com/BsNgChiThanh/SPSS/IMP/cnss.sav) về để tiến hành chinh phục.
 
 ### I. GIỚI THIỆU:
 
