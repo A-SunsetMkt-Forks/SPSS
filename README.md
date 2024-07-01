@@ -40,8 +40,8 @@ ca5f076ad01a908aca85
 |Version Click vào để download|Windows|Mac|
 | -- | -- | -- |
 |**[SPSS 27](https://drive.google.com/drive/folders/1Lyk1Cwac-L1josFvFiy59ubZd7jyvIqe?usp=sharing)**|x|x|
-|**[SPSS 26](https://drive.google.com/drive/folders/1xdXYJmBIAHkmF9GD13ObUNeDNcScSvdZ?usp=sharing)**|x|x|
-|**[SPSS 25]()**|x|x|
+|**[SPSS 26](https://drive.google.com/drive/folders/1xdXYJmBIAHkmF9GD13ObUNeDNcScSvdZ?usp=drive_link)**|x|x|
+|**[SPSS 25](https://drive.google.com/drive/folders/1O2dTxY1hTWWsLtSbhW9FEjoy58UwbbDy?usp=sharing)**|x|x|
 |**[SPSS 24]()**|x||
 |**[SPSS 23]()**|x||
 |**[SPSS 22]()**|x||
