@@ -72,8 +72,8 @@ ca5f076ad01a908aca85
 
 **Có 2 cách kích hoạt, làm cách nào cũng được:**
 
-1. cài xong nạp [key tại đây]() (SPSS 27 đang cập nhật key, vui lòng chọn cách 2)
-2. Cài xong copy file [lservrc]() vào đường dẫn C:\Program Files\IBM\SPSS\Statistics\27
+1. cài xong nạp [key tại đây](https://github.com/BsNgChiThanh/SPSS/blob/IMP/Key%20SPSS%2027.txt) (SPSS 27 đang cập nhật key, vui lòng chọn cách 2)
+2. Cài xong copy file [lservrc sau khi giải nén](https://raw.githubusercontent.com/BsNgChiThanh/lservrc/IMP/lservrc%20spss%2027.rar) vào đường dẫn C:\Program Files\IBM\SPSS\Statistics\27
 
 Restart lại máy tính là ok
 
