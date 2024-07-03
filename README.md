@@ -27,7 +27,7 @@ ca5f076ad01a908aca85
 
 |Version Click vào để download|Windows|Mac|
 | -- | -- | -- |
-|**[SPSS 28](https://drive.google.com/drive/folders/1_Cjnu52bBO6XZUlEuG2THDHdObz4DooL?usp=sharing)**|x|x|
+|**[SPSS 28](https://drive.google.com/drive/folders/1_Cjnu52bBO6XZUlEuG2THDHdObz4DooL?usp=sharing) hoặc [tại đây](https://1drv.ms/f/s!AiI7ysFhz98dgUKbfVsWREoLMN4y?e=iFYN6o)**|x|x|
 
 ## Giải pháp dùng thử ##
 
@@ -39,8 +39,8 @@ ca5f076ad01a908aca85
 
 |Version Click vào để download|Windows|Mac|
 | -- | -- | -- |
-|**[SPSS 27](https://drive.google.com/drive/folders/1Lyk1Cwac-L1josFvFiy59ubZd7jyvIqe?usp=sharing)**|x|x|
-|**[SPSS 26](https://drive.google.com/drive/folders/1xdXYJmBIAHkmF9GD13ObUNeDNcScSvdZ?usp=drive_link)**|x|x|
+|**[SPSS 27](https://drive.google.com/drive/folders/1Lyk1Cwac-L1josFvFiy59ubZd7jyvIqe?usp=sharing) hoặc [tại đây](https://1drv.ms/f/s!AiI7ysFhz98dgURugAzuB_3KCzdd?e=LHHX3I)**|x|x|
+|**[SPSS 26](https://drive.google.com/drive/folders/1xdXYJmBIAHkmF9GD13ObUNeDNcScSvdZ?usp=drive_link) hoặc [tại đây](https://1drv.ms/f/s!AiI7ysFhz98dgUW39lX301IkT3j8?e=hKHfWf)**|x|x|
 |**[SPSS 25](https://drive.google.com/drive/folders/1O2dTxY1hTWWsLtSbhW9FEjoy58UwbbDy?usp=sharing)**|x|x|
 |**[SPSS 24](https://drive.google.com/drive/folders/1qkK7DwSb9BQUqR9EmRLHocSLF8jzVFn2?usp=sharing)**|x||
 |**[SPSS 23](https://drive.google.com/drive/folders/1F9IHEdUgPHAhaxiqQOJ9sWBVnNkr0xby?usp=sharing)**|x||
