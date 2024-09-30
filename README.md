@@ -3,6 +3,8 @@
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743729-a4479f9f-5167-4fed-8532-aae385e91660.jpg)
 
+![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
+
 [Trang chủ IBM SPSS](https://myibm.ibm.com/products-services/manage/508392764/downloads), tạo tài khoản IBM SPSS để bắt đầu trải nghiệm!
 
 ![1](https://user-images.githubusercontent.com/82578024/165245052-12c25537-d3a4-4012-9cb2-fe2581d492ce.jpg)
